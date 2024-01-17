@@ -229,7 +229,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5011655168221786750, guid: 70aaeb125326b7a46bf82dee4615dee5, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.04
+      value: 0.19
       objectReference: {fileID: 0}
     - target: {fileID: 5011655168221786750, guid: 70aaeb125326b7a46bf82dee4615dee5, type: 3}
       propertyPath: m_LocalPosition.z
@@ -305,7 +305,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rigidbody: {fileID: 0}
-  force: 120
+  force: 800
 --- !u!50 &1383964431
 Rigidbody2D:
   serializedVersion: 4
