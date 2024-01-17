@@ -5,7 +5,7 @@ using UnityEngine;
 public class Player : MonoBehaviour
 {
     Vector2 direction;
-   public Rigidbody2D rigidbody;
+    public Rigidbody2D rigidbody;
     public float force = 10f;
     
 
@@ -22,5 +22,10 @@ public class Player : MonoBehaviour
     private void FixedUpdate()
     {
         rigidbody.AddForce(direction * force * Time.deltaTime);
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        Debug.Log("Player hit by" + collision.gameObject);
     }
 }
