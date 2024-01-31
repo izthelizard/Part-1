@@ -520,7 +520,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5e028a9e47423fc4db95068b205428ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
   yellowColour: {fileID: 0}
+=======
+>>>>>>> Assignment1
 --- !u!1 &530020732
 GameObject:
   m_ObjectHideFlags: 0
@@ -682,7 +685,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e453be7f3f9624949b6a1828eea71494, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
   blueColour: {fileID: 0}
+=======
+>>>>>>> Assignment1
 --- !u!1 &584400465
 GameObject:
   m_ObjectHideFlags: 0
@@ -844,7 +850,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a9171bfadaf6da14183ce530cc0df47e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
   greenColour: {fileID: 0}
+=======
+>>>>>>> Assignment1
 --- !u!1 &640379980
 GameObject:
   m_ObjectHideFlags: 0
@@ -1942,7 +1951,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 34390068286a0974a92157f9844fa053, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
   direction: {x: 0, y: 0}
+=======
+>>>>>>> Assignment1
   rigbodyassigment1: {fileID: 0}
   force: 150
 --- !u!50 &1341222011
@@ -2512,7 +2524,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8186aa1a8a93a37408483f971a199b67, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
   cyanColour: {fileID: 0}
+=======
+>>>>>>> Assignment1
 --- !u!1 &1420371650
 GameObject:
   m_ObjectHideFlags: 0
@@ -2705,7 +2720,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: aa8ebb3847a1d5547bd4de4dbcb73a04, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
   magentaColour: {fileID: 0}
+=======
+>>>>>>> Assignment1
 --- !u!1 &1429967736
 GameObject:
   m_ObjectHideFlags: 0
@@ -2867,7 +2885,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 68f81def153d56d4f8ccfcac30c17f3f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
   redColour: {fileID: 0}
+=======
+>>>>>>> Assignment1
 --- !u!1 &1833223975
 GameObject:
   m_ObjectHideFlags: 0
